@@ -1,9 +1,14 @@
 # yorjjeartemitt
 **`low-level learner && python problem solver`**
+
 🐍 Favorite languages are Python, C, and NASM
+
 🔩 Interested in disassembly, x86 assembly, C internals && solving problems in Python
+
 🐧 Daily driving Arch Linux + Hyprland on a ThinkPad X280
+
 🔭 Long-term goal: cybersecurity && low-level programming && devops(maybe)
+
 ---
 ### Tools && technologies I work with:
 
