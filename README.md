@@ -7,7 +7,7 @@
 
 🐧 Daily driving Arch Linux + Hyprland on a ThinkPad X280
 
-🔭 Long-term goal: cybersecurity && low-level programming && devops
+🔭 Long-term goal: cybersecurity && low-level programming && devops && AI-augmented programming(Claude Code and Codex)
 
 ---
 ### Tools && technologies I work with:
