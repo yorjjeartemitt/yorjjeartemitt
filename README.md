@@ -5,7 +5,7 @@
 
 🔩 Interested in disassembly, x86 assembly, C internals && solving problems in Python
 
-🐧 Daily driving Arch Linux + Hyprland on a ThinkPad X280
+🐧 Daily driving Arch Linux
 
 🔭 Long-term goal: cybersecurity && low-level programming && devops && AI-augmented programming(Claude Code and Codex)
 
