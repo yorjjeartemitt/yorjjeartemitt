@@ -7,7 +7,7 @@
 
 🐧 Daily driving Arch Linux
 
-🔭 Long-term goal: cybersecurity && low-level programming && devops && AI-augmented programming(Claude Code and Codex)
+🔭 Long-term goal: cybersecurity && low-level programming && devops
 
 ---
 ### Tools && technologies I work with:
