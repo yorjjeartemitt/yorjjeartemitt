@@ -52,6 +52,6 @@ Vim                      22 mins             ████████░░░�
 ```text
 No AI Coding Activity Tracked This Week
 ```
-
-
 <!--END_SECTION:waka-->
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6a82b9462600fc2f5590af06?variant=dark&roadmaps=)](https://roadmap.sh)
