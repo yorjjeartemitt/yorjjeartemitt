@@ -30,4 +30,28 @@
 ### WakaTime && RoadMap.sh
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%207%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+CSS                      31 mins             ███████████░░░░░░░░░░░░░░   45.04 % 
+JavaScript               14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+C                        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+
+🔥 Editors: 
+Sublime Text             47 mins             █████████████████░░░░░░░░   68.14 % 
+Vim                      22 mins             ████████░░░░░░░░░░░░░░░░░   31.86 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
 <!--END_SECTION:waka-->
