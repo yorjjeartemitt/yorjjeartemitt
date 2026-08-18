@@ -32,6 +32,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%207%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -45,6 +47,9 @@ Other                    4 mins              ██░░░░░░░░░�
 🔥 Editors: 
 Sublime Text             47 mins             █████████████████░░░░░░░░   68.14 % 
 Vim                      22 mins             ████████░░░░░░░░░░░░░░░░░   31.86 % 
+
+💻 Operating System: 
+Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -52,6 +57,8 @@ Vim                      22 mins             ████████░░░�
 ```text
 No AI Coding Activity Tracked This Week
 ```
+
+
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6a82b9462600fc2f5590af06?variant=dark&roadmaps=)](https://roadmap.sh)
