@@ -30,7 +30,7 @@
 ### WakaTime && RoadMap.sh
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -38,18 +38,18 @@
 
 ```text
 💬 Programming Languages: 
-CSS                      31 mins             ███████████░░░░░░░░░░░░░░   45.04 % 
-JavaScript               14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-C                        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+CSS                      31 mins             ████████░░░░░░░░░░░░░░░░░   31.01 % 
+YAML                     31 mins             ████████░░░░░░░░░░░░░░░░░   30.71 % 
+JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+C                        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-Sublime Text             47 mins             █████████████████░░░░░░░░   68.14 % 
-Vim                      22 mins             ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Vim                      54 mins             █████████████░░░░░░░░░░░░   53.08 % 
+Sublime Text             47 mins             ████████████░░░░░░░░░░░░░   46.92 % 
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
