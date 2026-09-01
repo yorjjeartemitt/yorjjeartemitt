@@ -12,30 +12,56 @@
 ---
 ### Tools && technologies I work with:
 
-<div align="center">
+<div align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Network** 
+
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![tcpdump](https://img.shields.io/badge/tcpdump-455A64?style=for-the-badge)
+![OpenSSH](https://img.shields.io/badge/OpenSSH-1E88E5?style=for-the-badge&logo=openssh&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-546E7A?style=for-the-badge)
+![traceroute](https://img.shields.io/badge/traceroute-607D8B?style=for-the-badge)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-6A1B9A?style=for-the-badge)
+
+**System & Development Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+**Web & Backend**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NASM](https://img.shields.io/badge/NASM-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![GTK](https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+**Reverse Engineering & Debugging**
+
+![GDB](https://img.shields.io/badge/GDB-F57C00?style=for-the-badge&logo=gnu&logoColor=white)
+![radare2](https://img.shields.io/badge/radare2-7B1FA2?style=for-the-badge)
+![checksec](https://img.shields.io/badge/checksec-37474F?style=for-the-badge)
+![Valgrind](https://img.shields.io/badge/Valgrind-3F51B5?style=for-the-badge)
 
 </div>
 
