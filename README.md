@@ -30,24 +30,27 @@
 ### WakaTime && RoadMap.sh
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2031%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-344-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-CSS                      1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-JSON                     1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-INI                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+JSON                     1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+CSS                      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+INI                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Lua                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 🔥 Editors: 
-Vim                      3 hrs 54 mins       ██████████████████░░░░░░░   71.71 % 
-Sublime Text             1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+Vim                      3 hrs 57 mins       ███████████████████░░░░░░   76.14 % 
+Sublime Text             59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Neovim                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 💻 Operating System: 
-Linux                    5 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -57,7 +60,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31 Aug 2026, 04:56:37 UTC
+ Last Updated on 01 Sep 2026, 04:35:28 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6a82b9462600fc2f5590af06?variant=dark&roadmaps=&t=5)](https://roadmap.sh/u/yorjjeartemitt)
