@@ -30,7 +30,7 @@
 ### WakaTime && RoadMap.sh
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-344-blue?style=flat)
 
@@ -48,9 +48,6 @@ Lua                      24 mins             ██░░░░░░░░░�
 Vim                      3 hrs 57 mins       ███████████████████░░░░░░   76.14 % 
 Sublime Text             59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 Neovim                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-
-💻 Operating System: 
-Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -60,7 +57,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01 Sep 2026, 04:35:28 UTC
+ Last Updated on 01 Sep 2026, 19:43:49 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6a82b9462600fc2f5590af06?variant=dark&roadmaps=&t=5)](https://roadmap.sh/u/yorjjeartemitt)
