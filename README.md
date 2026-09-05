@@ -5,10 +5,16 @@
 <img src="assets/video.gif" width="100%"/>
 <!--GIF_END-->
     </td>
-    <td width="0%"></td>
-    <td align="left" valign="middle" width="50%">
-      <img src="https://img.shields.io/badge/Focus-Cybersecurity_%7C_Low--Level-1a1b26?style=flat-square&logo=linux&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Stack-C_%7C_Python_%7C_NASM-58a6ff?style=flat-square&logo=gnu"/>
+    <td width="4%"></td>
+    <td align="left" valign="middle" width="51%">
+      <h2>👋 Hey, I'm yorjjeartemitt</h2>
+      <p>Cybersecurity & low-level systems enthusiast.<br/>
+      Building tools in C, breaking things in Python.</p>
+      <img src="https://img.shields.io/badge/Focus-Cybersecurity_%7C_Low--Level-1a1b26?style=for-the-badge&logo=linux&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/C-1a1b26?style=for-the-badge&logo=c&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/NASM-1a1b26?style=for-the-badge&logo=assemblyscript&logoColor=58a6ff" /><br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=yorjjeartemitt&style=for-the-badge&color=58a6ff" />
     </td>
   </tr>
 </table>
