@@ -21,8 +21,7 @@ def update_readme(gif_name: str) -> bool:
         re.DOTALL,
     )
 
-    new_block = f"{START_MARKER}\n![video](assets/{gif_name})\n{END_MARKER}"
-
+    new_block = f'{START_MARKER}\n<img src="assets/{gif_name}" width="100%"/>\n{END_MARKER}'
     if not pattern.search(content):
         raise ValueError(
             f"{START_MARKER} / {END_MARKER} не знайдені в README.md"
