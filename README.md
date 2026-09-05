@@ -1,14 +1,9 @@
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="right" valign="middle" width="45%"> 
+    <td align="center" valign="middle" width="100%"> 
       <!--GIF_START-->
 <img src="assets/video.gif" width="100%"/>
 <!--GIF_END-->
-    </td>
-    <td width="5%"></td>
-    <td align="left" valign="middle" width="50%">
-      <img src="https://img.shields.io/badge/Focus-Cybersecurity_%7C_Low--Level-1a1b26?style=flat-square&logo=linux&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Stack-C_%7C_Python_%7C_NASM-58a6ff?style=flat-square&logo=gnu"/>
     </td>
   </tr>
 </table>
