@@ -2,8 +2,8 @@ name: Randomize README gif
 
 on:
   schedule:
-    - cron: "0 0 */5 * *"  # щодня о 06:00 UTC
-  workflow_dispatch: {}   # можна запустити вручну з вкладки Actions
+    - cron: "0 6 * * *" 
+  workflow_dispatch: {}
   push:
     branches:
       - main
