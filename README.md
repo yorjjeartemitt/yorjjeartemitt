@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="banner.gif" width="320" height="180">
-</p>
+<!--GIF_START-->
+
+<!--GIF_END-->
+
+---
 **`low-level learner && python problem solver`**
 
 🐍 Favorite languages are Python, C and NASM

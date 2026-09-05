@@ -1,0 +1,33 @@
+name: Randomize README gif
+
+on:
+  schedule:
+    - cron: "0 0 */5 * *"  # щодня о 06:00 UTC
+  workflow_dispatch: {}   # можна запустити вручну з вкладки Actions
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  randomize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pick random gif
+        run: python3 scripts/randomize_gif.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: randomize preview gif" && git push)
