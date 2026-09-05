@@ -2,8 +2,8 @@
   <tr>
     <td align="right" valign="middle" width="45%"> 
       <!--GIF_START-->
-        <img src="assets/video6.gif" width="100%"/>
-      <!--GIF_END-->
+![video](assets/video3.gif)
+<!--GIF_END-->
     </td>
     <td width="5%"></td>
     <td align="left" valign="middle" width="50%">
