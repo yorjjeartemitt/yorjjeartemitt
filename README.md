@@ -1,9 +1,9 @@
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td align="right" valign="middle" width="45%"> 
-     <!--GIF_START-->
-![video](assets/video6.gif)
-<!--GIF_END-->
+      <!--GIF_START-->
+        ![video](assets/video6.gif)
+      <!--GIF_END-->
     </td>
     <td width="5%"></td>
     <td align="left" valign="middle" width="50%">
