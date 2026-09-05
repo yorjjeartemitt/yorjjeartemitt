@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="800">
+  <img src="banner.gif" width="320" height="180">
 </p>
 **`low-level learner && python problem solver`**
 
