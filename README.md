@@ -2,7 +2,7 @@
   <tr>
     <td align="center" valign="middle" width="100%"> 
       <!--GIF_START-->
-<img src="assets/video5.gif" width="100%"/>
+<img src="assets/video5.gif" width="100%" height="320px"/>
 <!--GIF_END-->
     </td>
   </tr>
