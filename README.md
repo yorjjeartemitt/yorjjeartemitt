@@ -18,7 +18,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 **`low-level learner && python problem solver`**
 
 🐍 Favorite languages are Python, C and NASM
