@@ -143,7 +143,6 @@
   <table align="center" border="0" width="100%">
     <tr>
       <td align="center" width="50%" valign="top" style="table-layout: fixed;">
-        <a href="https://wakatime.com/@ab148549-15c1-4276-868a-2f31062419ff">
         <!--START_SECTION:waka-->
         📊 **This Week I Spent My Time On** 
         ```text
@@ -159,7 +158,6 @@
         Sublime Text             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
         ```
         <!--END_SECTION:waka-->
-        </a>
       </td>
       <td align="center" width="50%" valign="top">
         <a href="https://roadmap.sh/u/yorjjeartemitt">
