@@ -167,7 +167,41 @@
     </tr>
   </table>
 </details>
+<details>
+<summary><b>Stack Link</b></summary>
+
 <br>
+
+<div align="center">
+
+<a href="https://learn.cylabacademy.org/users/yorjjeartemit">
+  <img src="https://cylabacademy.org/favicon.ico" width="32">
+</a>
+<a href="https://tryhackme.com/p/yorjjeartemitt">
+  <img src="https://cdn.simpleicons.org/tryhackme" width="32">
+</a>
+  
+<a href="https://pwn.college/hacker/165527">
+  <img src="https://pwn.college/themes/dojo_theme/static/img/favicon.png?d=4df92886/000000" width="32">
+</a>
+   
+<a href="https://www.codewars.com/users/yorjjeartemitt">
+  <img src="https://cdn.simpleicons.org/codewars/000000" width="32">
+</a>
+
+<a href="https://wakatime.com/@ab148549-15c1-4276-868a-2f31062419ff">
+  <img src="https://cdn.simpleicons.org/wakatime" width="32">
+</a>
+   
+<a href="https://github.com/yorjjeartemit">
+  <img src="https://cdn.simpleicons.org/github" width="32">
+</a>
+   
+<a href="https://roadmap.sh/u/yorjjeartemitt">
+  <img src="https://cdn.simpleicons.org/roadmap.sh" width="32">
+</a>
+</div>
+</details>
 
 ### Certifications
 
