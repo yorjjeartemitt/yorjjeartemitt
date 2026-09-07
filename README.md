@@ -154,10 +154,6 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%205%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-215-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -174,14 +170,8 @@ Neovim                   42 mins             ███████████�
 Sublime Text             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 07 Sep 2026, 13:23:36 UTC
+ Last Updated on 07 Sep 2026, 13:29:57 UTC
 <!--END_SECTION:waka-->
 
 <br>
