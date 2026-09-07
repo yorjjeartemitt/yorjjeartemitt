@@ -89,27 +89,34 @@
 ### WakaTime && RoadMap.sh
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-344-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-215-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-JSON                     1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-CSS                      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-INI                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Lua                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+C                        37 mins             ██████████░░░░░░░░░░░░░░░   40.77 % 
+Lua                      30 mins             ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Vim Script               16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-Vim                      3 hrs 57 mins       ███████████████████░░░░░░   76.14 % 
-Sublime Text             59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Neovim                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Vim                      47 mins             █████████████░░░░░░░░░░░░   51.91 % 
+Neovim                   42 mins             ███████████░░░░░░░░░░░░░░   45.75 % 
+Sublime Text             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
- Last Updated on 01 Sep 2026, 19:43:49 UTC
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 07 Sep 2026, 12:19:34 UTC
 <!--END_SECTION:waka-->
 
 <br>
