@@ -1,5 +1,5 @@
 <a href="https://github.com/yorjjeartemitt">
-  <img src="banner.jpg" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=yorjjeartemitt&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=35" width="100%" alt="banner"/>
 </a>
 
 <div align="center">
@@ -16,7 +16,7 @@
   <h2>About Me</h2>
 </div>
 
-<img src="photo.jpg" width="220" align="left" style="margin-right: 15px;">
+<img src="photo.jpg" width="180" align="left" style="margin-right: 15px;">
 
 <div style="font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; line-height: 1.9; color: #e6edf3; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 18px 22px;">
   <h3 style="color: #6e7681;">Hi, my name's Artem</h3>
