@@ -21,7 +21,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
-          SHOW_UPDATED_DATE: "True"
+          SHOW_UPDATED_DATE: "False"
           UPDATED_DATE_FORMAT: "%d %b %Y, %H:%M:%S"
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "chore: update wakatime stats"
