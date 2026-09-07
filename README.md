@@ -12,20 +12,23 @@
   </a>
 </div>
 
-<br>
+<div align="center">
+  <h2>About Me</h2>
+</div>
 
-<details>
-  <summary><b>About Me</b></summary>
-  <br/>
-  <div style="font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; line-height: 1.9; color: #e6edf3; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 18px 22px;">
-    <div><span style="color: #6e7681;">name</span> &nbsp;&nbsp;&nbsp; Artem</div>
-    <div><span style="color: #6e7681;">role</span> &nbsp;&nbsp;&nbsp; Self-taught systems/security programmer</div>
-    <div><span style="color: #6e7681;">focus</span> &nbsp;&nbsp; x86-64 asm & reverse engineering</div>
-    <div><span style="color: #6e7681;">stack</span> &nbsp;&nbsp; C, Python, NASM (in progress)</div>
-    <div><span style="color: #6e7681;">setup</span> &nbsp;&nbsp; Arch Linux · Vim/Sublime Text</div>
-    <div><span style="color: #6e7681;">based</span> &nbsp;&nbsp; Ukraine</div>
-  </div>
-</details>
+<img src="https://your-image-link.png" width="220" align="left" style="margin-right: 15px;">
+
+<div style="font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; line-height: 1.9; color: #e6edf3; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 18px 22px; align: justify">
+  <div><h3 style="color: #6e7681;">Hi my name Artem</h3></div>
+  <div><span style="color: #6e7681;">role</span> &nbsp;&nbsp;&nbsp; Self-taught systems/security programmer</div>
+  <div><span style="color: #6e7681;">focus</span> &nbsp;&nbsp; x86-64 asm & reverse engineering</div>
+  <div><span style="color: #6e7681;">stack</span> &nbsp;&nbsp; C, Python, NASM (in progress)</div>
+  <div><span style="color: #6e7681;">setup</span> &nbsp;&nbsp; Arch Linux · Vim/Sublime Text</div>
+  <div><span style="color: #6e7681;">based</span> &nbsp;&nbsp; Ukraine</div>
+</div>
+
+<br clear="left">
+<br clear="right">
 
 <details>
   <summary><b>Interests</b></summary>
