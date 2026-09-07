@@ -143,11 +143,6 @@
   <table align="center" border="0" width="100%">
     <tr>
       <td align="center" width="50%" valign="top">
-        <a href="https://roadmap.sh/u/yorjjeartemitt">
-          <img src="https://roadmap.sh/card/wide/6a82b9462600fc2f5590af06?variant=dark&roadmaps=&t=5" style="width:100%; max-width:100%;" alt="roadmap.sh"/>
-        </a>
-      </td>
-      <td align="center" width="50%" valign="top">
         <a href="https://wakatime.com/@ab148549-15c1-4276-868a-2f31062419ff">
           <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -168,7 +163,12 @@ Sublime Text             2 mins              █░░░░░░░░░░�
 
 
  Last Updated on 07 Sep 2026, 13:38:23 UTC
-<!--END_SECTION:waka-->
+        <!--END_SECTION:waka-->
+        </a>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <a href="https://roadmap.sh/u/yorjjeartemitt">
+          <img src="https://roadmap.sh/card/wide/6a82b9462600fc2f5590af06?variant=dark&roadmaps=&t=5" style="width:100%; max-width:100%;" alt="roadmap.sh"/>
         </a>
       </td>
     </tr>
