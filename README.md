@@ -193,19 +193,18 @@
     <tr>
       <td align="center" width="50%" valign="top" style="table-layout: fixed;">
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
+
 ```text
-💬 Programming Languages:
-C                        37 mins             ██████████░░░░░░░░░░░░░░░   40.77 %
-Lua                      30 mins             ████████░░░░░░░░░░░░░░░░░   32.87 %
-Vim Script               16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 %
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-🔥 Editors:
-Vim                      47 mins             █████████████░░░░░░░░░░░░   51.91 %
-Neovim                   42 mins             ███████████░░░░░░░░░░░░░░   45.75 %
-Sublime Text             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+💬 Programming Languages: 
+Lua                      13 mins             ██████████████░░░░░░░░░░░   54.66 % 
+C                        11 mins             ███████████░░░░░░░░░░░░░░   45.34 % 
+
+🔥 Editors: 
+Neovim                   25 mins             █████████████████████████   100.00 % 
 ```
+
+
 <!--END_SECTION:waka-->
       </td>
       <td align="center" width="50%" valign="top">
