@@ -192,6 +192,12 @@
   <table align="center" border="0" width="100%">
     <tr>
       <td align="center" width="50%" valign="top" style="table-layout: fixed;">
+        <a href="https://roadmap.sh/u/yorjjeartemitt">
+          <img src="https://roadmap.sh/card/wide/6a82b9462600fc2f5590af06?variant=dark&roadmaps=&t=5" style="width:100%; max-width:100%;" alt="roadmap.sh"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -206,14 +212,6 @@ Neovim                   25 mins             ███████████�
 
 
 <!--END_SECTION:waka-->
-      </td>
-      <td align="center" width="50%" valign="top">
-        <a href="https://roadmap.sh/u/yorjjeartemitt">
-          <img src="https://roadmap.sh/card/wide/6a82b9462600fc2f5590af06?variant=dark&roadmaps=&t=5" style="width:100%; max-width:100%;" alt="roadmap.sh"/>
-        </a>
-      </td>
-    </tr>
-  </table>
 </details>
 
 <details>
